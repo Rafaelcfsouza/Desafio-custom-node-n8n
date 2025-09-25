@@ -1,0 +1,15 @@
+{
+  "name": "n8n-nodes-random",
+  "version": "1.0.0",
+  "description": "Node personalizado do n8n para gerar números aleatórios via Random.org",
+  "main": "dist/Random.node.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "n8n": "^1.49.0"
+  }
+}
