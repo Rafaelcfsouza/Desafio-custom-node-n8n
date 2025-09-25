@@ -18,7 +18,7 @@ Este projeto implementa um nó personalizado para o [n8n](https://n8n.io), chama
 
 ##  Instalação das Dependências
 
-Antes de tudo, instale as dependências do projeto:
+Antes de tudo, instale as dependências do projeto para baixar a pasta modules:
 
 ```bash
 npm install
