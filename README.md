@@ -22,7 +22,7 @@ Antes de tudo, instale as dependências do projeto para baixar a pasta modules:
 
 ```bash
 npm install
-
+```
 ---
 
 ## Executando com Docker
@@ -30,7 +30,7 @@ Compile o projeto TypeScript:
 
 ```bash
 npx tsc
-
+```
 
 Certifique-se de que a pasta dist/ foi criada e contém o arquivo Random.node.js.
 
@@ -38,14 +38,14 @@ Inicie o ambiente com Docker Compose (se aplicável):
 
 ```bash
 docker compose up -d
-
+```
 
 Se quiser reiniciar completamente, pode usar:
 
 ```bash
 docker compose down
 docker compose up -d
-
+```
 
 O n8n iniciará com os nós personalizados carregados. Você verá o nó “Random” disponível no editor.
 
