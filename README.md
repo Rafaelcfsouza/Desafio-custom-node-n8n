@@ -20,7 +20,7 @@ Este projeto implementa um nó personalizado para o [n8n](https://n8n.io), chama
 
 Antes de tudo, instale as dependências do projeto para baixar a pasta modules:
 
-
+```bash
 npm install
 
 ---
